@@ -1,0 +1,6 @@
+url: https://github.com/LL-cmyk-so/dsh-docintel
+name: LL-cmyk-so/dsh-docintel
+category: docs
+description:
+  en: 'Personal document knowledge base for DSH: add PDF/Markdown/text files into a local SQLite FTS5 store with page-level locators, Chinese-friendly retrieval (2-char queries included), a web drawer with drag-drop upload and search, and page-cited answers from the agent. Zero Python, zero external services.'
+  zh: 'DSH 个人文档知识库：PDF/Markdown/文本入库本地 SQLite FTS5（带页码定位），中文友好检索（2 字词可命中），Web 抽屉支持拖拽上传与搜索，agent 回答带页码引用。零 Python、零外部服务。'
