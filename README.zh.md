@@ -988,7 +988,7 @@ dsh plugin --profile web add dshmarket
 - [Jesse-njx/dsh-cowork#dsh](https://github.com/Jesse-njx/dsh-cowork/tree/main/packages/dsh) — doc_read/doc_write：以有界、单元格寻址的方式读写 xlsx / pdf / docx / pptx / ipynb，另附 MCP 服务器与 CLI。
 - [kw78/dsh-office-tools](https://github.com/kw78/dsh-office-tools) — 面向 agent 的工作区安全 Office 工具集：创建/读取 Word、创建/读取/更新 Excel、创建/读取 PowerPoint，并支持 PNG/JPG/GIF 图片排版。
 - [LeslieWylie/dsh-md-preview](https://github.com/LeslieWylie/dsh-md-preview) — 把 Markdown 渲染为自包含的独立 HTML 页面：提供在 headless 配置下同样可用的 `md_html_render` 工具，以及在网页端浏览、预览、编辑并导出本地 `.md` 文件的抽屉；两个入口共用同一个渲染器，无运行时依赖。
-- [LL-cmyk-so/dsh-docintel](https://github.com/LL-cmyk-so/dsh-docintel) — DSH 个人文档知识库：PDF/Markdown/文本入库本地 SQLite FTS5（带页码定位），中文友好检索（2 字词可命中），Web 抽屉支持拖拽上传与搜索，agent 回答带页码引用。零 Python、零外部服务。
+- [LL-cmyk-so/dsh-docintel](https://github.com/LL-cmyk-so/dsh-docintel) — DSH 个人文档知识库：PDF/Markdown/文本入库本地 SQLite FTS5（带页码定位），中文友好检索（2 字词可命中），Web 抽屉支持拖拽上传与搜索，agent 回答带页码引用。零 Python、零外部服务。npm 安装：`dsh-docintel`。
 - [maple-pwn/paperlab](https://github.com/maple-pwn/paperlab) — Overleaf 式 LaTeX 论文工作台：在渲染后的 PDF 上选中任意文字批注，由 dsh agent 改写源文件、编译验证并提交 git 修订。
 - [omdsh-dev/dsh-tool-markdown](https://github.com/omdsh-dev/dsh-tool-markdown) — HTML↔Markdown 转换、GFM 表格规范化、目录生成。
 - [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) — 演示文稿技能与工具：一句话或一篇文档生成 HTML 放映与可编辑 PPTX，内置 5 套主题，可配置默认主题/语言，中英双语。
